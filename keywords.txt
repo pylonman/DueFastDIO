@@ -1,0 +1,4 @@
+DueFastDIO	KEYWORD2
+
+pinWrite	KEYWORD2
+pinRead		KEYWORD2
