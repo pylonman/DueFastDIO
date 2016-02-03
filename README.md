@@ -9,4 +9,5 @@ There is also a keywords.txt file included for header and function call highligh
 ## Function calls
 
 void pinWrite(int pin, int value)
+
 int pinRead(int pin)
